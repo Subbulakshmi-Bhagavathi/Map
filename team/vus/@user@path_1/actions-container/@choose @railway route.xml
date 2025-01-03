@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Choose Railway route" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="3c899efd-dab5-4c8d-940e-9f1b8b009e60" weightsEnabled="false">
+    <weighted-embedded-action uid="5eb86d21-6465-4364-a02e-563514300c56"/>
+    <weighted-embedded-action uid="b15900cf-e540-4cad-99e1-8b5acae8b67e"/>
+    <weighted-embedded-action uid="8d4c364c-e504-45af-bc37-3b74e52cdc95"/>
+</basic-logical-action-container>

@@ -1,0 +1,17 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Change to Satellite" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="61bd2f45-04fb-4bdd-8992-ff6f70378466" weightsEnabled="false">
+    <weighted-embedded-action uid="f3bdae40-7f5b-409a-bb6c-78454165ae7c"/>
+    <weighted-embedded-action uid="18bd8755-04fc-4d53-bbef-35318eac4b02"/>
+    <weighted-embedded-action uid="e081e0aa-0a14-4a6e-ab9f-cbd59142edd9"/>
+    <weighted-embedded-action uid="afa71271-bd80-4932-ac68-32b95d8515a9"/>
+    <weighted-embedded-action uid="22787f03-1a91-4a89-8c89-27091a327b92"/>
+    <weighted-embedded-action uid="f87f519f-2952-4509-94ca-cd9cacd12b70"/>
+    <weighted-embedded-action uid="f10c42a6-d3ea-4df4-accf-52b6ac5be8d7"/>
+    <weighted-embedded-action uid="e9d09653-c813-4142-8625-bb85bf43585d"/>
+    <weighted-embedded-action uid="aee2a7e3-d761-41a0-88da-3af1386c4186"/>
+    <weighted-embedded-action uid="86578c43-628f-4a2c-b28a-7b7013232572"/>
+    <weighted-embedded-action uid="4404a1b5-4eed-48d8-be8e-b4eb76332d62"/>
+    <weighted-embedded-action uid="2b31f7ad-fc65-4d8f-8e83-28cd5f74806d"/>
+</basic-logical-action-container>
