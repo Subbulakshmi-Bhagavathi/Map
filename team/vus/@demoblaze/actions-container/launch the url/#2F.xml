@@ -1,0 +1,621 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e865811a-53b4-47d1-bddd-e90f8ff908fc">
+    <embedded-action>6a49625d-6f11-49c7-b557-6852518d9f13</embedded-action>
+    <embedded-action>9a6ec3e0-f0ba-4264-9ebc-9e3ec3aa9f5a</embedded-action>
+    <embedded-action>269b38e9-c160-4a3a-833e-a90a5007381f</embedded-action>
+    <embedded-action>a4754914-91d7-440a-8e67-22a4a1d8f5c5</embedded-action>
+    <embedded-action>d351f9df-058e-4248-9b26-30f1e1fce60e</embedded-action>
+    <embedded-action>196e6135-6743-414b-8ca0-652b6aa82a5d</embedded-action>
+    <embedded-action>363e8203-ba79-4c46-abc5-867dd15b1b34</embedded-action>
+    <embedded-action>aefa9b26-93df-469d-976d-5a4bbfbe05a6</embedded-action>
+    <embedded-action>604a9da0-df59-4da7-a027-c663b967050f</embedded-action>
+    <embedded-action>286f20e6-8009-4937-82da-22f6e34502bb</embedded-action>
+    <embedded-action>e2d26372-635b-429d-b550-f4fda767468f</embedded-action>
+    <embedded-action>e6e35ced-7a15-4a3a-8891-227ca446cf43</embedded-action>
+    <embedded-action>4dcd6469-9c12-4105-b693-b23c035a327c</embedded-action>
+    <embedded-action>ca354ab1-6fa8-458e-b644-2d576abd0a12</embedded-action>
+    <embedded-action>c5cccb27-a49a-45f7-8414-f087990f8b08</embedded-action>
+    <embedded-action>59933061-6d6b-4328-8365-259267199948</embedded-action>
+    <embedded-action>ce1b3844-ced7-4ef0-b2be-bd116c05dfb2</embedded-action>
+    <embedded-action>a2f5fc30-cf28-4cb0-be7f-0c3aef0fbd9a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5ec839d9-5585-42b1-bb91-a308f4296403.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="6a49625d-6f11-49c7-b557-6852518d9f13" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a63da878-911f-4295-aa10-70082dabaaaf.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/node_modules/bootstrap/dist/css/bootstrap.min.css"
+    path="/node_modules/bootstrap/dist/css/bootstrap.min.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="9a6ec3e0-f0ba-4264-9ebc-9e3ec3aa9f5a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_2f14bea3-0875-412f-a590-bc65bec2196c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/node_modules/video.js/dist/video-js.min.css"
+    path="/node_modules/video.js/dist/video-js.min.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="269b38e9-c160-4a3a-833e-a90a5007381f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1632fc71-bf87-44e1-a58b-e97be5abfb5c.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css/latofonts.css" path="/css/latofonts.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="a4754914-91d7-440a-8e67-22a4a1d8f5c5" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c2419e6f-6005-4fac-a1f0-b5118eba560b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css/latostyle.css" path="/css/latostyle.css"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="d351f9df-058e-4248-9b26-30f1e1fce60e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_4378dd9b-8518-43fa-9fbd-1a86fab83403.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="style"/>
+    <header name="accept" value="text/css,*/*;q=0.1"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/imgs/front.jpg" path="/imgs/front.jpg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="196e6135-6743-414b-8ca0-652b6aa82a5d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_9af3e83c-951d-4750-93af-2b9c5270066e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/Samsung1.jpg" path="/Samsung1.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="363e8203-ba79-4c46-abc5-867dd15b1b34" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_15925e9b-9c91-47ed-91dc-021ff2b83d6b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/nexus1.jpg" path="/nexus1.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="aefa9b26-93df-469d-976d-5a4bbfbe05a6" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d4d07594-76a2-4739-bc85-809809721209.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:12 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:22 GMT&#xd;
+age: 3&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/iphone1.jpg" path="/iphone1.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="604a9da0-df59-4da7-a027-c663b967050f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ef98173d-8085-4c85-b512-172afc38f3d6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/node_modules/jquery/dist/jquery.min.js"
+    path="/node_modules/jquery/dist/jquery.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="286f20e6-8009-4937-82da-22f6e34502bb" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_68d3778e-2c30-42cd-94e3-0362f6145151.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/node_modules/video.js/dist/video.min.js"
+    path="/node_modules/video.js/dist/video.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="e2d26372-635b-429d-b550-f4fda767468f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_7e969490-33a8-4af1-83fe-38e70d1a3966.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js"
+    path="/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="e6e35ced-7a15-4a3a-8891-227ca446cf43" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a8a2cb21-a28b-4646-b35e-8944ae3c72e7.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/node_modules/tether/dist/js/tether.min.js"
+    path="/node_modules/tether/dist/js/tether.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="4dcd6469-9c12-4105-b693-b23c035a327c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d1f02bfd-7f75-4993-b3ad-56969d497505.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/node_modules/bootstrap/dist/js/bootstrap.min.js"
+    path="/node_modules/bootstrap/dist/js/bootstrap.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="ca354ab1-6fa8-458e-b644-2d576abd0a12" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_40409681-11dd-4015-aa9c-1373ac02c7ea.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/index.js" path="/js/index.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="c5cccb27-a49a-45f7-8414-f087990f8b08" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d9485023-2105-450d-abc6-a38b6171bda9.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=2"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/bm.png" path="/bm.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="59933061-6d6b-4328-8365-259267199948" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_01574d82-2792-40c1-8dcb-af38d6edff88.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/css/fonts/Lato-Regular.woff2"
+    path="/css/fonts/Lato-Regular.woff2" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="ce1b3844-ced7-4ef0-b2be-bd116c05dfb2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_def63ea5-abc7-4096-a5ae-8f05d6a4eb5b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.demoblaze.com/css/latofonts.css"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.demoblaze.com"/>
+    <header name="priority" value="u=0"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="font"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 0&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" eTag="&quot;TTo8pA&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/config.json" path="/config.json" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/e865811a-53b4-47d1-bddd-e90f8ff908fc.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.demoblaze.com" slaProfileEnabled="false"
+    uid="a2f5fc30-cf28-4cb0-be7f-0c3aef0fbd9a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d7681ecf-039e-4790-8476-96630af4ec23.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="if-none-match" value="&quot;TTo8pA&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json, text/javascript, */*; q=0.01"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-requested-with" value="XMLHttpRequest"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 11:25:15 GMT&#xd;
+expires: Fri, 03 Jan 2025 11:25:25 GMT&#xd;
+age: 1&#xd;
+etag: "TTo8pA"&#xd;
+cache-control: public, max-age=10</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

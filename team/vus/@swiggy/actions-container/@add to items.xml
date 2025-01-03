@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Add to items" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="b84901fe-809d-4091-9072-f45e892cfbed" weightsEnabled="false">
+    <weighted-embedded-action uid="b8bd48fe-85e8-4b72-9cc1-084d9c11dd33"/>
+    <weighted-embedded-action uid="a9438021-e808-4996-b41f-f6568fe9cceb"/>
+    <weighted-embedded-action uid="a0deb8cc-b744-4eef-a5a5-9fa421eb34f0"/>
+</basic-logical-action-container>

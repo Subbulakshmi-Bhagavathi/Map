@@ -1,0 +1,47 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/view"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/91163925-2a57-4484-8a3e-86088c332980.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="91163925-2a57-4484-8a3e-86088c332980">
+    <embedded-action>5d2319e4-7dca-4b41-8ebf-fd11ecbdd81c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_17def5db-a4a3-4a31-b788-a9a2467cfacf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/view" path="/view" postType="6"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/91163925-2a57-4484-8a3e-86088c332980.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="api.demoblaze.com" slaProfileEnabled="false"
+    uid="5d2319e4-7dca-4b41-8ebf-fd11ecbdd81c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ffe27017-d543-4efd-ae0f-18aaa25ef448.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.demoblaze.com"/>
+    <header name="access-control-request-headers" value="content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html; charset=utf-8&#xd;
+allow: OPTIONS, POST&#xd;
+access-control-allow-origin: https://www.demoblaze.com&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: content-type&#xd;
+access-control-allow-methods: DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT&#xd;
+vary: Origin&#xd;
+x-cloud-trace-context: 6d0c763ed358925766add2061d2cbedc&#xd;
+date: Fri, 03 Jan 2025 11:25:59 GMT&#xd;
+server: Google Frontend&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

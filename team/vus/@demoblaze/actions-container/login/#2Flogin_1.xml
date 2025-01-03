@@ -1,0 +1,63 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/login_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/53be8f7b-0c2c-42ba-808c-4530b3051a66.zip"
+    slaProfileEnabled="false" thinkTime="1"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="53be8f7b-0c2c-42ba-808c-4530b3051a66">
+    <embedded-action>6b377b2b-5d13-4b7f-b2ae-41674a6b0f35</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_a56f0809-f68b-43b7-ac15-0295ed73ea57.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/login" path="/login" postType="4"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/53be8f7b-0c2c-42ba-808c-4530b3051a66.zip"
+    recordedResponseCode="200" responseSize="39"
+    serverUid="api.demoblaze.com" slaProfileEnabled="false"
+    uid="6b377b2b-5d13-4b7f-b2ae-41674a6b0f35" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dad9fc7d-46a5-4b1e-b2cd-c373cd71ee0a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dad9fc7d-46a5-4b1e-b2cd-c373cd71ee0a.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="&quot;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="0" extractTypeAdv="0"
+        extractTypeSimple="0" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="Token"
+        refererUid="6b377b2b-5d13-4b7f-b2ae-41674a6b0f35"
+        regExp="Auth_token:(.*?)&quot;" regExpAdv=""
+        setDefaultValue="true" startsWithSimple="Auth_token:"
+        template="$1$" templateAdv="$1$"
+        uid="556434a4-dcff-4833-95fe-4d4a47d7b991" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.demoblaze.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+vary: Accept-Encoding&#xd;
+vary: Origin&#xd;
+access-control-allow-origin: https://www.demoblaze.com&#xd;
+access-control-allow-credentials: true&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: 19668370833fae2a0f1c19321e6de86b;o=1&#xd;
+date: Fri, 03 Jan 2025 11:25:32 GMT&#xd;
+server: Google Frontend&#xd;
+content-length: 65</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"username":"Subbu-1726","password":"MTIzNDU="}]]></textPostContent>
+</http-action>

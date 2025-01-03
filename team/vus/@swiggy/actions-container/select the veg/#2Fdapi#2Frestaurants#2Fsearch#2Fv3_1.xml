@@ -1,0 +1,394 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/dapi/restaurants/search/v3_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    slaProfileEnabled="false" thinkTime="2184"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b4e8ee8d-f5df-4d9a-882b-275cb877cee3">
+    <embedded-action>dce94104-ed0e-4931-8f3b-91c7b4612243</embedded-action>
+    <embedded-action>21c83ece-e63a-41ae-873a-9fb95a92de47</embedded-action>
+    <embedded-action>e6a55000-c90c-4645-b38c-84da2dfc3077</embedded-action>
+    <embedded-action>020e8f79-a4f0-497d-a102-3218863319e3</embedded-action>
+    <embedded-action>4ff8ebc4-23be-4f88-abe8-cb2e635ad8e0</embedded-action>
+    <embedded-action>50d9c04e-9dd5-484f-8822-18e4e2df9948</embedded-action>
+    <embedded-action>d20d597b-ac91-4156-bd7e-3ef326c7b700</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_75a9d714-4193-469b-a9ff-5761273fb1fe.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    eTag="W/&quot;9189-G17yUsPwo5PHti8DQyP3Of0UptM&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dapi/restaurants/search/v3"
+    path="/dapi/restaurants/search/v3" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="37257"
+    serverUid="www.swiggy.com" slaProfileEnabled="false"
+    uid="dce94104-ed0e-4931-8f3b-91c7b4612243" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b9c5c54d-33d5-486c-9699-a44f1f9ec775</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b9c5c54d-33d5-486c-9699-a44f1f9ec775.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="lat"
+        recordRawValue="12.96340" separator="=" value="12.96340" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lng"
+        recordRawValue="77.58550" separator="=" value="77.58550" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="str"
+        recordRawValue="Biryani" separator="=" value="Biryani" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="trackingId"
+        recordRawValue="undefined" separator="=" value="undefined" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="submitAction"
+        recordRawValue="SUGGESTION" separator="=" value="SUGGESTION" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="selectedPLTab"
+        recordRawValue="dish-add" separator="=" value="dish-add" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="restaurantMenuUrl"
+        recordRawValue="%2Fcity%2Fbangalore%2Fhyderabadi-biryani-hub-btm-layout-rest654965%3Fquery%3DBiryani"
+        separator="="
+        value="/city/bangalore/hyderabadi-biryani-hub-btm-layout-rest654965?query=Biryani" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="restaurantIdOfAddedItem" recordRawValue="654965"
+        separator="=" value="654965" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="itemAdded"
+        recordRawValue="109615258" separator="=" value="109615258" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="metaData"
+        recordRawValue="%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FBiryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D"
+        separator="="
+        value="{&quot;type&quot;:&quot;DISH&quot;,&quot;data&quot;:{&quot;vegIdentifier&quot;:&quot;NA&quot;,&quot;cloudinaryId&quot;:&quot;Autosuggest/Top%20200%20queries/Biryani.png&quot;,&quot;dishFamilyId&quot;:&quot;846613&quot;,&quot;dishFamilyIds&quot;:[&quot;846613&quot;]},&quot;businessCategory&quot;:&quot;SWIGGY_FOOD&quot;,&quot;displayLabel&quot;:&quot;Dish&quot;}" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/search?query=Biryani"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="__SW=hQQGOjDOY9Lbg_3ggh3qZn5oPYHkwj0Z; _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; _gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; userLocation={%22lat%22:%2212.96340%22%2C%22lng%22:%2277.58550%22%2C%22address%22:%22%22%2C%22area%22:%22%22%2C%22showUserDefaultAddressHint%22:false}; fontsLoaded=1; _guest_tid=75fc2211-c098-4aa2-91a5-8054553f174f; _sid=i5qe038a-e38f-4ba6-a465-62eb38857dd6; _ot=REGULAR; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="__fetch_req__" value="true"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Fri, 03 Jan 2025 09:00:45 GMT&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+x-frame-options: Sameorigin&#xd;
+set-cookie: _is_logged_in=; Domain=www.swiggy.com; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT; Secure&#xd;
+set-cookie: _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; Max-Age=31536000; Domain=www.swiggy.com; Path=/; Expires=Sat, 03 Jan 2026 09:00:45 GMT; HttpOnly; Secure&#xd;
+etag: W/"9189-tq/ECk0oN2cHSinaQ7NYkljnyfE"&#xd;
+x-kong-upstream-latency: 357&#xd;
+x-kong-proxy-latency: 0&#xd;
+x-data-origin: dweb_backend/app-kong-nlb-2&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 49cebf2f9a095736b10af2d637906ba0.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P1&#xd;
+x-amz-cf-id: ZXyru3HypV0QTehWecz9mo7E5GqyR-N1W9j-RAcaZVcEB7yShJxxNQ==&#xd;
+x-xss-protection: 1; mode=block&#xd;
+referrer-policy: strict-origin-when-cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/avif"
+    eTag="&quot;29be0110226e02bdad159c3ca62794d3&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 10 Oct 2024 15:59:40 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yiiln3ntc7cwm51l9lhi"
+    path="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yiiln3ntc7cwm51l9lhi"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="21c83ece-e63a-41ae-873a-9fb95a92de47" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c125164b-7420-462f-8171-cac5250a0c4f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/avif&#xd;
+content-length: 5541&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: b33c7b9e-7011-43f3-b742-e40e4cb057e8&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+etag: "29be0110226e02bdad159c3ca62794d3"&#xd;
+last-modified: Thu, 10 Oct 2024 15:59:40 GMT&#xd;
+date: Tue, 31 Dec 2024 14:02:24 GMT&#xd;
+vary: Accept&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: tBkSpoS4J_dePFDgO69ZsAR42LUnI6HxWylp9t0hbIGAX3sl1Gdm5w==&#xd;
+age: 241101</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/avif"
+    eTag="W/&quot;117d-qo8LiOn/FLT69zYxBWGL5H/xJZM&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/9fd74712-5ce4-4bf0-8273-04e0940606a1_79557097-1859-4aa6-afba-27b5deb325ca.jpg"
+    path="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/6/13/9fd74712-5ce4-4bf0-8273-04e0940606a1_79557097-1859-4aa6-afba-27b5deb325ca.jpg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="e6a55000-c90c-4645-b38c-84da2dfc3077" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b620191e-6bb2-41ef-b92b-321af787547f.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/avif&#xd;
+content-length: 4509&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: b9e0f64d-ab34-4b40-ab5d-59919bdc1fca&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+etag: W/"119d-n36rZafw/1gtMKByRLmas4ZEkqI"&#xd;
+date: Sun, 29 Dec 2024 04:56:13 GMT&#xd;
+vary: Accept&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: V8Ske0swLiHfk0dVJ7pO-5u0AOeuT-nvzgMJgnN3vEX9eJo0uUVwMA==&#xd;
+age: 446672</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/avif"
+    eTag="&quot;23f91a5770aa276e58bffebd97a5a1ee&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 29 Aug 2024 04:38:40 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/8/c2f98c2e-afd7-4571-99aa-bd035b6a394e_b6b3361b-ec1f-4290-920c-7b8ff8366a9e.jpg"
+    path="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/5/8/c2f98c2e-afd7-4571-99aa-bd035b6a394e_b6b3361b-ec1f-4290-920c-7b8ff8366a9e.jpg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="020e8f79-a4f0-497d-a102-3218863319e3" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_6b782d81-f7f6-4b9e-b69a-eb62583885a2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/avif&#xd;
+content-length: 3600&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: 20e5db0c-0679-4257-9762-f36fc9d6b22f&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+server-timing: transformation;dur=101,download;dur=90&#xd;
+etag: W/"e10-xeJ2NGFC56Vv3AEcuugUsM6paQ4"&#xd;
+date: Fri, 03 Jan 2025 09:00:45 GMT&#xd;
+vary: Accept&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: X7s2qeHhjMlPOPnPgJszlRhsykdX1160eg18pccHDx1eDvXkeP-Fug==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/avif"
+    eTag="&quot;95b02c0a6e6354c53167456da3edf394&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Tue, 05 Nov 2024 07:08:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/m0wvqhgyaqqmjcwkv59k"
+    path="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/m0wvqhgyaqqmjcwkv59k"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="4ff8ebc4-23be-4f88-abe8-cb2e635ad8e0" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b64c70bb-2271-4af0-8ace-21ad19960edb.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/avif&#xd;
+content-length: 6974&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: 94c7a49f-464c-429c-befc-a443b0a3d863&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+etag: "95b02c0a6e6354c53167456da3edf394"&#xd;
+last-modified: Tue, 05 Nov 2024 07:08:22 GMT&#xd;
+date: Mon, 30 Dec 2024 07:25:07 GMT&#xd;
+vary: Accept&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: YRJjnghT07JyV7c9kw9r8d84MtLuqN9J7x-ZBkDTpIAe2VPzAb22uQ==&#xd;
+age: 351338</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/avif"
+    eTag="W/&quot;189c-FCkX5OSwETKb3KPfhEzODEiXqKk&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/2363d857-edc8-4b74-b7f4-05bf4f0b5f6b_7974c734-ef1d-4762-8d22-ce0f0b4e0e05.jpg"
+    path="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/12/12/2363d857-edc8-4b74-b7f4-05bf4f0b5f6b_7974c734-ef1d-4762-8d22-ce0f0b4e0e05.jpg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="50d9c04e-9dd5-484f-8822-18e4e2df9948" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_43c5a9bf-431b-4eec-981f-2da3c73361c9.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/avif&#xd;
+content-length: 6300&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: 1370804f-87b4-44ed-952e-33a73f5c6dbc&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+etag: W/"189c-FCkX5OSwETKb3KPfhEzODEiXqKk"&#xd;
+date: Fri, 03 Jan 2025 06:39:59 GMT&#xd;
+vary: Accept&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: VO-9czyTSDblpvmxZJn3jJZpLFmGRx7OGIeXq_l7OvFQQdZidnsa0g==&#xd;
+age: 8446</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/avif"
+    eTag="W/&quot;1bc8-D7LvdooaIIni1jd/VNIK3OBdENI&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/11/9/4340ee93-1538-4a8c-b759-ad19512a47d9_6436cab6-f3af-418b-9a98-495a1799cebf.jpg"
+    path="/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/FOOD_CATALOG/IMAGES/CMS/2024/11/9/4340ee93-1538-4a8c-b759-ad19512a47d9_6436cab6-f3af-418b-9a98-495a1799cebf.jpg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/b4e8ee8d-f5df-4d9a-882b-275cb877cee3.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="d20d597b-ac91-4156-bd7e-3ef326c7b700" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c9ad7088-92a8-4bac-a68a-d2bfa513fcf4.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: image/avif&#xd;
+content-length: 7110&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: 87fc0cef-2705-47bf-a0f0-d1e8ab98feeb&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+server-timing: transformation;dur=53,download;dur=84&#xd;
+etag: W/"1bc6-/kttJVg+WJQO4amoBKW94pj3c74"&#xd;
+date: Fri, 03 Jan 2025 09:00:45 GMT&#xd;
+vary: Accept&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: 8tmSg1x_8ChO4OLtjf0W7YNJNfSKTCQVkTSeCwnjYWlDOr44Rylunw==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

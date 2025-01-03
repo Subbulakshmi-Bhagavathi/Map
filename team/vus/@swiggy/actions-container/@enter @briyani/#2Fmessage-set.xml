@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/message-set"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/7933ea93-23fe-4f02-b7b1-a6d4576b64f8.zip"
+    slaProfileEnabled="false" thinkTime="1"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="7933ea93-23fe-4f02-b7b1-a6d4576b64f8">
+    <embedded-action>fae02cd9-9112-4389-80af-7222a58f9eba</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_55024781-1451-4d21-a54e-87bafeb02f04.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/message-set" path="/message-set" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/7933ea93-23fe-4f02-b7b1-a6d4576b64f8.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="analytics.swiggy.com" slaProfileEnabled="false"
+    uid="fae02cd9-9112-4389-80af-7222a58f9eba" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_182ef3b8-9c4b-419d-9747-e159cbad79f8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_182ef3b8-9c4b-419d-9747-e159cbad79f8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:00:24 GMT&#xd;
+content-type: text/plain; charset=utf-8&#xd;
+content-length: 71&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"header":{"appName":"swiggy_consumer","eventId":29,"name":"SwiggylyticsEvent","schemaVersion":"1.0.1","timestamp":1735894823960,"uuid":"48cd477e-e8df-d22b-6797-da988939f01f"},"event":{"context":"{\"type\":\"Dish\",\"metadata\":{\"type\":\"DISH\",\"data\":{\"vegIdentifier\":\"NA\",\"cloudinaryId\":\"Autosuggest/Top%20200%20queries/Biryani.png\",\"dishFamilyId\":\"846613\",\"dishFamilyIds\":[\"846613\"]},\"businessCategory\":\"SWIGGY_FOOD\",\"displayLabel\":\"Dish\"}}","object_position":3,"app_version_code":"370","version":"1","component":"Swiggylytics_Portal","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0","referral":"new-home-page","object_name":"click-auto-suggest-result","object_value":"Biryani","latitude":12.9634,"longitude":77.5855,"source":"direct","sid":"i5qe038a-e38f-4ba6-a465-62eb38857dd6","device_id":"138443d3-1cbf-2b0c-1c54-431d10971645","user_id":"0","platform":"dweb","client_timestamp":1735894823960,"screen_name":"explore","clickstream_event_name":"click","sequence_number":167,"geo_hash":"tdr1txb"}}]]]></textPostContent>
+</http-action>

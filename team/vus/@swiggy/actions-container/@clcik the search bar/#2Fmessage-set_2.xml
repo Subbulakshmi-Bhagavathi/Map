@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/message-set_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/08dfa59d-be00-42ca-af81-061a4f96cf55.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="08dfa59d-be00-42ca-af81-061a4f96cf55">
+    <embedded-action>14371534-55f4-4d7a-b110-29970edad25c</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_ca40556a-441a-42ca-9060-e0c5c173f95d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/message-set" path="/message-set" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/08dfa59d-be00-42ca-af81-061a4f96cf55.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="analytics.swiggy.com" slaProfileEnabled="false"
+    uid="14371534-55f4-4d7a-b110-29970edad25c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_494b2163-0280-47c7-9c4e-a5b1b6b52008</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_494b2163-0280-47c7-9c4e-a5b1b6b52008.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:00:02 GMT&#xd;
+content-type: text/plain; charset=utf-8&#xd;
+content-length: 71&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"header":{"appName":"swiggy_consumer","eventId":18,"name":"LandingSourceEventV2","schemaVersion":"1.0.0","timestamp":1735894802312,"uuid":"48cd477e-e8df-d22b-6797-da988939f01f"},"event":{"utm_source":"Referral","utm_medium":"https://www.swiggy.com/","utm_campaign":"-","utm_content":"-","landing_loc":"https://www.swiggy.com/search","object_value":"-","app_version_code":"370","client_timestamp":"1735894802312","device_id":"138443d3-1cbf-2b0c-1c54-431d10971645","user_id":"0","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0","platform":"dweb","sid":"i5qe038a-e38f-4ba6-a465-62eb38857dd6","object_name":"landing-event-order-id"}},{"header":{"appName":"swiggy_consumer","eventId":19,"name":"SwiggylyticsEvent","schemaVersion":"1.0.1","timestamp":1735894802323,"uuid":"48cd477e-e8df-d22b-6797-da988939f01f"},"event":{"context":"-","object_position":9999,"app_version_code":"370","version":"1","component":"Swiggylytics_Portal","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0","referral":"new-home-page","object_name":"-","object_value":"-","latitude":12.9634,"longitude":77.5855,"source":"direct","sid":"i5qe038a-e38f-4ba6-a465-62eb38857dd6","device_id":"138443d3-1cbf-2b0c-1c54-431d10971645","user_id":"0","platform":"dweb","client_timestamp":1735894802323,"screen_name":"explore","clickstream_event_name":"screen-view","sequence_number":157,"geo_hash":"tdr1txb"}}]]]></textPostContent>
+</http-action>

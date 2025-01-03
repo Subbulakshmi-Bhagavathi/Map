@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/fraudnabuse/v1/entity" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/a0deb8cc-b744-4eef-a5a5-9fa421eb34f0.zip"
+    slaProfileEnabled="false" thinkTime="338"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a0deb8cc-b744-4eef-a5a5-9fa421eb34f0">
+    <embedded-action>9f194605-ccf3-47a1-aaec-e0bfbc753982</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_6f98fc04-3852-4ddd-abef-74b8e16af0c7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/fraudnabuse/v1/entity"
+    path="/api/fraudnabuse/v1/entity" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/a0deb8cc-b744-4eef-a5a5-9fa421eb34f0.zip"
+    recordedResponseCode="200" responseSize="106"
+    serverUid="fna.swiggy.com" slaProfileEnabled="false"
+    uid="9f194605-ccf3-47a1-aaec-e0bfbc753982" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9cbe1922-6462-4b02-b317-9f1df2b80ee0</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9cbe1922-6462-4b02-b317-9f1df2b80ee0.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:01:29 GMT&#xd;
+content-type: application/json;charset=UTF-8&#xd;
+vary: Origin,Access-Control-Request-Method,Access-Control-Request-Headers&#xd;
+access-control-allow-origin: https://www.swiggy.com&#xd;
+x-envoy-upstream-service-time: 10&#xd;
+server: istio-envoy&#xd;
+x-data-origin: fna_backend/surff-production-services-3</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"data":{"webFingerprint":"{\"os\":\"Windows 10|64 bits\",\"processor\":\"win32\",\"display\":\"24|1920|1080|1920|1040\",\"timezone\":\"5.5\",\"user_agent\":\"mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/131.0.0.0 safari/537.36 edg/131.0.0.0|Win32|en-US\",\"browser\":\"Chrome 131\",\"canvas_hash\":\"3957116535\",\"language\":\"en-US\",\"flash\":\"N/A\",\"connection\":\"4g\",\"cookie\":true,\"java\":false,\"plugins\":[\"PDF Viewer\",\"Chrome PDF Viewer\",\"Chromium PDF Viewer\",\"Microsoft Edge PDF Viewer\",\"WebKit built-in PDF\"],\"fonts_hash\":\"1127233273\",\"webgl_vendor\":\"Google Inc. (Intel)\",\"webgl_rendrer\":\"ANGLE (Intel, Intel(R) HD Graphics 4600 (0x00000412) Direct3D11 vs_5_0 ps_5_0, D3D11)\"}","customerId":"0","sessionId":"i5qe038a-e38f-4ba6-a465-62eb38857dd6"},"use_case":"tns-signal","entity":"device","entity_id":"138443d3-1cbf-2b0c-1c54-431d10971645"}]]></textPostContent>
+</http-action>

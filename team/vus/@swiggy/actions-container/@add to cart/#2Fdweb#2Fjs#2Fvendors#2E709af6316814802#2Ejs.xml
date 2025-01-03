@@ -1,0 +1,142 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/dweb/js/vendors.709af6316814802.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/0e6260aa-8673-473f-935c-d8f571a089ff.zip"
+    slaProfileEnabled="false" thinkTime="7708"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0e6260aa-8673-473f-935c-d8f571a089ff">
+    <embedded-action>b41a1730-bd5d-4d05-930b-893f6f00e6b6</embedded-action>
+    <embedded-action>5c3b464a-4251-4a64-aea3-167bd67b5b02</embedded-action>
+    <embedded-action>93b2c2e5-718f-465d-b2d4-f5a0daaf3f7d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b2ae097e-cb4d-41e2-9306-4b05a75390ea.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript; charset=utf-8"
+    eTag="W/&quot;8bc762e2af278c45be37ed7f3000953b&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 02 Jan 2025 05:41:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dweb/js/vendors.709af6316814802.js"
+    path="/dweb/js/vendors.709af6316814802.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/0e6260aa-8673-473f-935c-d8f571a089ff.zip"
+    recordedResponseCode="200" responseSize="988419"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="b41a1730-bd5d-4d05-930b-893f6f00e6b6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_22491b8f-f5e4-4fb9-b4a8-d98c662890e8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_22491b8f-f5e4-4fb9-b4a8-d98c662890e8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=utf-8&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: 675f7183-5d65-4e7e-810a-017475052da5&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+etag: W/"8bc762e2af278c45be37ed7f3000953b"&#xd;
+last-modified: Thu, 02 Jan 2025 05:41:16 GMT&#xd;
+date: Thu, 02 Jan 2025 06:08:51 GMT&#xd;
+content-encoding: br&#xd;
+vary: Accept-Encoding&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: N3Dj8NymiDT9LMi92tS1wmlKG96aC561yLH8NKs8xazTynfBc6-wQg==&#xd;
+age: 96743</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=utf-8"
+    eTag="W/&quot;8e28a32a975443f9eaed7cdc1fbda8fb&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Thu, 02 Jan 2025 05:41:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dweb/js/customize.709af6316814802.js"
+    path="/dweb/js/customize.709af6316814802.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/0e6260aa-8673-473f-935c-d8f571a089ff.zip"
+    recordedResponseCode="200" responseSize="233840"
+    serverUid="media-assets.swiggy.com" slaProfileEnabled="false"
+    uid="5c3b464a-4251-4a64-aea3-167bd67b5b02" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_afad33c2-1c1e-4ef8-9f60-5915848501be</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_afad33c2-1c1e-4ef8-9f60-5915848501be.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="_gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; _ga=GA1.2.201872141.1735890172; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894824.0.0.0"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="script"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/javascript; charset=utf-8&#xd;
+access-control-allow-origin: *&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-headers: *&#xd;
+timing-allow-origin: *&#xd;
+x-server: ImageKit.io&#xd;
+x-request-id: b16fcd6d-2844-4e37-ac95-8cec174fbe97&#xd;
+cache-control: public, s-maxage=31536000, max-age=31536000, must-revalidate&#xd;
+etag: W/"8e28a32a975443f9eaed7cdc1fbda8fb"&#xd;
+last-modified: Thu, 02 Jan 2025 05:41:14 GMT&#xd;
+date: Thu, 02 Jan 2025 06:08:51 GMT&#xd;
+content-encoding: br&#xd;
+vary: Accept-Encoding&#xd;
+x-cache: Hit from cloudfront&#xd;
+via: 1.1 f2413ce30d7e0433695f69f9e33492d4.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P3&#xd;
+alt-svc: h3=":443"; ma=86400&#xd;
+x-amz-cf-id: G2gOMrX72xEHiciMaCrM-F9YHqTssbHqxXRAqQRqsE4hVTVJVpofPg==&#xd;
+age: 96743</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/message-set" path="/message-set"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/0e6260aa-8673-473f-935c-d8f571a089ff.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="analytics.swiggy.com" slaProfileEnabled="false"
+    uid="93b2c2e5-718f-465d-b2d4-f5a0daaf3f7d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c9acb730-eb6d-4a77-a104-f175b8313eb6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="access-control-request-headers" value="content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:01:14 GMT&#xd;
+Content-Length: 0&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

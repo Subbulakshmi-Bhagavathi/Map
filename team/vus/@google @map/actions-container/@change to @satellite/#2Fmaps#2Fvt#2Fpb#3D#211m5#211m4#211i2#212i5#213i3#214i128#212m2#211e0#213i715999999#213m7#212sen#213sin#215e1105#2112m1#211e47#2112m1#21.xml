@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/maps/vt/pb=!1m5!1m4!1i2!2i5!3i3!4i128!2m2!1e0!3i715999999!3m7!2sen!3sin!5e1105!12m1!1e47!12m1!"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/db9ded13-46eb-4fc2-9b9d-49d52e9de839.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="db9ded13-46eb-4fc2-9b9d-49d52e9de839">
+    <embedded-action>a79c28d9-37f5-401a-b2c2-f8e909d94950</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_991ab2f2-58d4-47b9-8279-38cef53438c4.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" eTag="035da85474fc4d663"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/maps/vt/pb=!1m5!1m4!1i2!2i5!3i3!4i128!2m2!1e0!3i715999999!3m7!2sen!3sin!5e1105!12m1!1e47!12m1!1e3!4e0!5m1!1e0!23i94223789!23i202752!23i10205968!23i10208640!23i1368782!23i1368785!23i4861626!23i4897086!23i47054629!23i72385654!23i72310157!23i72458815!23i72692817!23i10210500!23i94222679"
+    path="/maps/vt/pb=!1m5!1m4!1i2!2i5!3i3!4i128!2m2!1e0!3i715999999!3m7!2sen!3sin!5e1105!12m1!1e47!12m1!1e3!4e0!5m1!1e0!23i94223789!23i202752!23i10205968!23i10208640!23i1368782!23i1368785!23i4861626!23i4897086!23i47054629!23i72385654!23i72310157!23i72458815!23i72692817!23i10210500!23i94222679"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/db9ded13-46eb-4fc2-9b9d-49d52e9de839.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="a79c28d9-37f5-401a-b2c2-f8e909d94950" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0101dad5-f927-4ca6-9ce1-2b0c6f81dbe6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="if-none-match" value="035da85474fc4d663"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+date: Fri, 03 Jan 2025 07:09:45 GMT&#xd;
+expires: Fri, 03 Jan 2025 08:06:08 GMT&#xd;
+age: 209&#xd;
+etag: 035da85474fc4d663&#xd;
+cache-control: public, max-age=3383&#xd;
+server-timing: gfet4t7; dur=1&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

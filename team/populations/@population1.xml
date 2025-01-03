@@ -1,5 +1,5 @@
 <population uid="Population1">
-    <split cache="1" factor="100.0" virtualUserUid="UserPath">
+    <split cache="1" factor="100.0" virtualUserUid="Google Map">
         <browser-profile acceptEncoding="GZIP,DEFLATE,BROTLI"
             connections="6" cookies="true" http2="true" name="browser.recorded"/>
         <wan-emulation-profile

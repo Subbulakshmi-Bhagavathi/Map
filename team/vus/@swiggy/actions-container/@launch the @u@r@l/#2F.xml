@@ -1,0 +1,57 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/4bb32b32-24ad-4501-b8d0-d4dd3afbb5b9.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4bb32b32-24ad-4501-b8d0-d4dd3afbb5b9">
+    <embedded-action>de12a78d-c7b6-49f9-ae6a-7d988c7a9e64</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3153557d-e782-4145-8449-8fd7eca1a951.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/4bb32b32-24ad-4501-b8d0-d4dd3afbb5b9.zip"
+    recordedResponseCode="200" responseSize="603104"
+    serverUid="www.swiggy.com" slaProfileEnabled="false"
+    uid="de12a78d-c7b6-49f9-ae6a-7d988c7a9e64" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1216190e-066d-4c46-a02c-3e24d9c25412.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1216190e-066d-4c46-a02c-3e24d9c25412.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="cookie" value="__SW=hQQGOjDOY9Lbg_3ggh3qZn5oPYHkwj0Z; _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; _gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; userLocation={%22lat%22:%2212.96340%22%2C%22lng%22:%2277.58550%22%2C%22address%22:%22%22%2C%22area%22:%22%22%2C%22showUserDefaultAddressHint%22:false}; fontsLoaded=1; _guest_tid=75fc2211-c098-4aa2-91a5-8054553f174f; _sid=i5qe038a-e38f-4ba6-a465-62eb38857dd6; _ot=REGULAR; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894761.0.0.0; _ga=GA1.2.201872141.1735890172; _gat_0=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="sec-fetch-user" value="?1"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="document"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html; charset=utf-8&#xd;
+date: Fri, 03 Jan 2025 08:59:44 GMT&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+x-frame-options: Sameorigin&#xd;
+set-cookie: _is_logged_in=; Domain=www.swiggy.com; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT; Secure&#xd;
+set-cookie: _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; Max-Age=31536000; Domain=www.swiggy.com; Path=/; Expires=Sat, 03 Jan 2026 08:59:44 GMT; HttpOnly; Secure&#xd;
+x-kong-upstream-latency: 616&#xd;
+x-kong-proxy-latency: 0&#xd;
+x-data-origin: dweb_backend/app-kong-nlb-1&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 49cebf2f9a095736b10af2d637906ba0.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P1&#xd;
+x-amz-cf-id: z30NUXIKb5EfuQOA_f3lYSKUuc2Qa211i_RMvct10ZNyx-zm7rZKXw==&#xd;
+x-xss-protection: 1; mode=block&#xd;
+referrer-policy: strict-origin-when-cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

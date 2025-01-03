@@ -1,0 +1,206 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/maps/vt/pb=!1m8!3m7!1m2!1u94208!2u60416!2m2!1u768!2u512!3i9!3m3!2sen!3sin!5e1105!4e4!11m2!1e2!"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/9a979745-d15e-43b9-985b-3c731d58996a.zip"
+    slaProfileEnabled="false" thinkTime="187"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9a979745-d15e-43b9-985b-3c731d58996a">
+    <embedded-action>7e7d8a9f-1f90-443f-9186-ea372f528e9d</embedded-action>
+    <embedded-action>db65ee53-87ff-4a00-8b11-5b4563a07cdf</embedded-action>
+    <embedded-action>61bce9ee-0c86-42ea-b5d7-7ccf0b9bf82c</embedded-action>
+    <embedded-action>ffa4c1a7-ea0c-4b62-a3a9-7660aafecc34</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_8b118aec-d18e-4b5b-8b90-5decfb4766ab.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/maps/vt/pb=!1m8!3m7!1m2!1u94208!2u60416!2m2!1u768!2u512!3i9!3m3!2sen!3sin!5e1105!4e4!11m2!1e2!2b1!23i94223789!23i202752!23i10205968!23i10208640!23i1368782!23i1368785!23i4861626!23i4897086!23i47054629!23i72385654!23i72310157!23i72458815!23i72692817!23i10210500!23i94222679"
+    path="/maps/vt/pb=!1m8!3m7!1m2!1u94208!2u60416!2m2!1u768!2u512!3i9!3m3!2sen!3sin!5e1105!4e4!11m2!1e2!2b1!23i94223789!23i202752!23i10205968!23i10208640!23i1368782!23i1368785!23i4861626!23i4897086!23i47054629!23i72385654!23i72310157!23i72458815!23i72692817!23i10210500!23i94222679"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/9a979745-d15e-43b9-985b-3c731d58996a.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="7e7d8a9f-1f90-443f-9186-ea372f528e9d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2e4d4c0a-4e11-4e3c-b084-a179c26e6bcf</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2e4d4c0a-4e11-4e3c-b084-a179c26e6bcf.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+access-control-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-security-policy: script-src 'none'; object-src 'none'; base-uri 'none'&#xd;
+x-content-type-options: nosniff&#xd;
+x-server-version-bin: CgoIBBDn/eq6BhgB&#xd;
+content-security-policy-report-only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/msptfdsghphc:130:0&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to=coop_reporting&#xd;
+report-to: {"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/msptfdsghphc:130:0"}],}&#xd;
+content-encoding: gzip&#xd;
+server: scaffolding on HTTPServer2&#xd;
+content-length: 22&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+date: Thu, 02 Jan 2025 11:27:46 GMT&#xd;
+expires: Tue, 16 Sep 2025 16:18:08 GMT&#xd;
+cache-control: public, max-age=22222222&#xd;
+content-type: application/json&#xd;
+age: 71150&#xd;
+server-timing: gfet4t7; dur=0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps/preview/log204" path="/maps/preview/log204"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/9a979745-d15e-43b9-985b-3c731d58996a.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="db65ee53-87ff-4a00-8b11-5b4563a07cdf" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_9d75f17e-cc34-442b-a3b5-b2dbde330bc0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="authuser"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gl"
+        recordRawValue="in" separator="=" value="in" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="pb"
+        recordRawValue="!8m2!3sjsaction.directions_resize!6i8825!8m2!3sjsaction.directions_focus!6i8834!8m7!6i0!27m1!1i169877!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A70!8m68!6i233!27m2!1i134206!4i1!27m11!1i147310!3i0!4i2!4i3!4i4!4i5!4i6!4i7!4i8!4i9!4i10!27m2!1i147312!3i0!27m5!1i120714!3i1!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120706!3i2!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i150577!3i3!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120707!3i4!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120717!3i5!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120713!3i6!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120696!3i7!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m2!1i147311!3i8!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A71!8m9!6i412!27m2!1i164967!3i5!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A6!9sA453Z7aWBMOP4-EPp-2zgAI%3A6!15i46458!17sA453Z7aWBMOP4-EPp-2zgAI%3A72!8m12!2e22!6i412!20m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A6!2s1i%3A0%2Ct%3A158805%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A6!3sA453Z7aWBMOP4-EPp-2zgAI%3A72!4s1i%3A0%2Ct%3A164967%2Ce%3A5%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A72!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A6!9sA453Z7aWBMOP4-EPp-2zgAI%3A6!15i27626!17sA453Z7aWBMOP4-EPp-2zgAI%3A73!8m6!6i8614!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A69!2zMWk6NCx0OjEzNTM3LGU6MixwOkE0NTNaN2FXQk1PUDQtRVBwLTJ6Z0FJOjY5!12e3!17sA453Z7aWBMOP4-EPp-2zgAI%3A76!8m2!3sveeh-interaction!7i1!9j1735888407364!10i8836!11m3!1sA453Z7aWBMOP4-EPp-2zgAI!7e81!15i6409"
+        separator="="
+        value="!8m2!3sjsaction.directions_resize!6i8825!8m2!3sjsaction.directions_focus!6i8834!8m7!6i0!27m1!1i169877!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A70!8m68!6i233!27m2!1i134206!4i1!27m11!1i147310!3i0!4i2!4i3!4i4!4i5!4i6!4i7!4i8!4i9!4i10!27m2!1i147312!3i0!27m5!1i120714!3i1!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120706!3i2!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i150577!3i3!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120707!3i4!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120717!3i5!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120713!3i6!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m5!1i120696!3i7!232m2!1m1!5s0ahUKEwiRkaiegNmKAxUEyzgGHexMPSYQ8BcIAigA!27m2!1i147311!3i8!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A71!8m9!6i412!27m2!1i164967!3i5!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A6!9sA453Z7aWBMOP4-EPp-2zgAI%3A6!15i46458!17sA453Z7aWBMOP4-EPp-2zgAI%3A72!8m12!2e22!6i412!20m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A6!2s1i%3A0%2Ct%3A158805%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A6!3sA453Z7aWBMOP4-EPp-2zgAI%3A72!4s1i%3A0%2Ct%3A164967%2Ce%3A5%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A72!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A6!9sA453Z7aWBMOP4-EPp-2zgAI%3A6!15i27626!17sA453Z7aWBMOP4-EPp-2zgAI%3A73!8m6!6i8614!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A69!2zMWk6NCx0OjEzNTM3LGU6MixwOkE0NTNaN2FXQk1PUDQtRVBwLTJ6Z0FJOjY5!12e3!17sA453Z7aWBMOP4-EPp-2zgAI%3A76!8m2!3sveeh-interaction!7i1!9j1735888407364!10i8836!11m3!1sA453Z7aWBMOP4-EPp-2zgAI!7e81!15i6409" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="x-maps-diversion-context-bin" value="CAE="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: image/gif&#xd;
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-ipiClUgw5fCjuoghWlkkwQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/maps-tactile&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/maps-tactile"}]}&#xd;
+date: Fri, 03 Jan 2025 07:13:36 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps/preview/log204" path="/maps/preview/log204"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/9a979745-d15e-43b9-985b-3c731d58996a.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="61bce9ee-0c86-42ea-b5d7-7ccf0b9bf82c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a84f6c52-de5c-4d6f-953f-52c594eb3cbc.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="authuser"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gl"
+        recordRawValue="in" separator="=" value="in" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="pb"
+        recordRawValue="!8m3!3sjsaction.directions_resize!6i12!6i30!8m2!3sjsaction.directions_suggest!6i28!8m27!6i0!27m6!1i32604!4i1!4i2!4i3!4i4!4i5!27m2!1i37537!3i0!27m2!1i37538!3i1!27m2!1i14442!3i2!27m2!1i10760!3i3!27m2!1i17307!3i4!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A81!8m7!6i140!27m1!1i11886!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A82!8m7!6i140!27m1!1i11887!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A83!8m7!6i140!27m1!1i220840!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A84!8m7!6i140!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A85!8m7!6i140!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A86!8m11!6i140!27m2!1i26064!4i1!27m2!1i26250!3i0!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A87!8m12!6i469!27m5!1i32659!3i1!232m2!1m1!5s0ahUKEwiR5cqjgNmKAxXhtKwCHfNcKmgQoK0CCAE!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i46458!17sA453Z7aWBMOP4-EPp-2zgAI%3A89!8m12!2e22!6i469!20m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!2s1i%3A0%2Ct%3A26064%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A87!3sA453Z7aWBMOP4-EPp-2zgAI%3A89!4zMWk6MCx0OjMyNjU5LGU6MSxwOkE0NTNaN2FXQk1PUDQtRVBwLTJ6Z0FJOjg5!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i27626!17sA453Z7aWBMOP4-EPp-2zgAI%3A91!9j1735888416201!10i469!11m3!1sA453Z7aWBMOP4-EPp-2zgAI!7e81!15i6409"
+        separator="="
+        value="!8m3!3sjsaction.directions_resize!6i12!6i30!8m2!3sjsaction.directions_suggest!6i28!8m27!6i0!27m6!1i32604!4i1!4i2!4i3!4i4!4i5!27m2!1i37537!3i0!27m2!1i37538!3i1!27m2!1i14442!3i2!27m2!1i10760!3i3!27m2!1i17307!3i4!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A81!8m7!6i140!27m1!1i11886!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A82!8m7!6i140!27m1!1i11887!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A83!8m7!6i140!27m1!1i220840!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A84!8m7!6i140!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A85!8m7!6i140!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A86!8m11!6i140!27m2!1i26064!4i1!27m2!1i26250!3i0!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A87!8m12!6i469!27m5!1i32659!3i1!232m2!1m1!5s0ahUKEwiR5cqjgNmKAxXhtKwCHfNcKmgQoK0CCAE!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i46458!17sA453Z7aWBMOP4-EPp-2zgAI%3A89!8m12!2e22!6i469!20m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!2s1i%3A0%2Ct%3A26064%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A87!3sA453Z7aWBMOP4-EPp-2zgAI%3A89!4zMWk6MCx0OjMyNjU5LGU6MSxwOkE0NTNaN2FXQk1PUDQtRVBwLTJ6Z0FJOjg5!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i27626!17sA453Z7aWBMOP4-EPp-2zgAI%3A91!9j1735888416201!10i469!11m3!1sA453Z7aWBMOP4-EPp-2zgAI!7e81!15i6409" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="x-maps-diversion-context-bin" value="CAE="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: image/gif&#xd;
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-_Aii97mHfCPbIefFHIBcmw' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/maps-tactile&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/maps-tactile"}]}&#xd;
+date: Fri, 03 Jan 2025 07:13:37 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/vnd.google.octet-stream-compressible; charset=x-user-defined"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/maps/vt/stream/pb=!1m9!8m8!1m3!1i11!2i1474!3i946!2i11!3x6295551!3x4290779139!3x3!2m2!1e2!2sspotlit!3m8!2sen!3sin!5e1105!12m4!1e68!2m2!1sset!2sRoadmapSatellite!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!39b1!44e1!50e0!67m1!1e1!23i94223789!23i202752!23i10205968!23i10208640!23i1368782!23i1368785!23i4861626!23i4897086!23i47054629!23i72385654!23i72310157!23i72458815!23i72692817!23i10210500!23i94222679!27m23!299174093m22!14m21!1m16!1m2!1y4202533459320451937!2y7953822084350858291!2zL20vMGM4dGs!4m2!1x130843007!2x802704622!8b1!12m6!1m2!1x128338848!2x800817007!2m2!1x132611661!2x803363228!15sgcid%3Alocality!2b0!3b1!6b0!8b0!28i715&amp;authuser=0"
+    path="/maps/vt/stream/pb=!1m9!8m8!1m3!1i11!2i1474!3i946!2i11!3x6295551!3x4290779139!3x3!2m2!1e2!2sspotlit!3m8!2sen!3sin!5e1105!12m4!1e68!2m2!1sset!2sRoadmapSatellite!4e1!5m4!1e4!8m2!1e0!1e1!6m11!1e12!2i2!19m1!1e0!20m1!1e0!39b1!44e1!50e0!67m1!1e1!23i94223789!23i202752!23i10205968!23i10208640!23i1368782!23i1368785!23i4861626!23i4897086!23i47054629!23i72385654!23i72310157!23i72458815!23i72692817!23i10210500!23i94222679!27m23!299174093m22!14m21!1m16!1m2!1y4202533459320451937!2y7953822084350858291!2zL20vMGM4dGs!4m2!1x130843007!2x802704622!8b1!12m6!1m2!1x128338848!2x800817007!2m2!1x132611661!2x803363228!15sgcid%3Alocality!2b0!3b1!6b0!8b0!28i715&amp;authuser=0"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@google @map/%resources%/recorded-artifacts/9a979745-d15e-43b9-985b-3c731d58996a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="ffa4c1a7-ea0c-4b62-a3a9-7660aafecc34" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_3f45af81-3c3f-40f2-abe0-b05839b694b2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.co.in/maps/_/js/k=maps.w.en.Mz1w9q5qBdU.2019.O/ck=maps.w.znqpkeZOnzI.L.W.O/m=wtd,b,c/am=AAQ/rt=j/d=1/rs=ACT90oFm3jbaxjxVS_oXoGgNwS5sWSIJHg/ed=1/exm=?wli=w._9gpBkrAG-A.createLabeler.O:;w.DUKneoDoDjA.loadSv.O:;w.fJvtTeTJV2g.mapcore.O:;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 07:13:36 GMT&#xd;
+expires: Fri, 03 Jan 2025 07:13:36 GMT&#xd;
+cache-control: private, max-age=891&#xd;
+access-control-allow-origin: *&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+content-security-policy: script-src 'none'; object-src 'none'; base-uri 'none'&#xd;
+x-content-type-options: nosniff&#xd;
+x-server-version-bin: CgoIBBDn/eq6BhgB&#xd;
+content-type: application/vnd.google.octet-stream-compressible; charset=x-user-defined&#xd;
+content-encoding: gzip&#xd;
+server: scaffolding on HTTPServer2&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+server-timing: gfet4t7; dur=37&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

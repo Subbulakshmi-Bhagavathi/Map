@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/message-set_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/f631add9-d0a5-43b3-9bef-54ba060a0e37.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f631add9-d0a5-43b3-9bef-54ba060a0e37">
+    <embedded-action>cb35653a-608e-4a1b-b1ef-44bbaa872051</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3cc785b6-91b6-429d-b31d-944ce3aea34b.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/message-set" path="/message-set" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/f631add9-d0a5-43b3-9bef-54ba060a0e37.zip"
+    recordedResponseCode="200" responseSize="71"
+    serverUid="analytics.swiggy.com" slaProfileEnabled="false"
+    uid="cb35653a-608e-4a1b-b1ef-44bbaa872051" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_baa2bceb-3905-4331-9523-e8c09d5552b5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_baa2bceb-3905-4331-9523-e8c09d5552b5.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:00:02 GMT&#xd;
+content-type: text/plain; charset=utf-8&#xd;
+content-length: 71&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"header":{"appName":"swiggy_consumer","eventId":17,"name":"SwiggylyticsEvent","schemaVersion":"1.0.1","timestamp":1735894802048,"uuid":"b465ff1f-9e40-ab3f-4d72-91578e71b20b"},"event":{"context":"-","object_position":9999,"app_version_code":"370","version":"1","component":"Swiggylytics_Portal","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0","referral":"-","object_name":"click-search-bar","object_value":"-","latitude":12.9634,"longitude":77.5855,"source":"direct","sid":"i5qe038a-e38f-4ba6-a465-62eb38857dd6","device_id":"138443d3-1cbf-2b0c-1c54-431d10971645","user_id":"0","platform":"dweb","client_timestamp":1735894802048,"screen_name":"new-home-page","clickstream_event_name":"click","sequence_number":156,"geo_hash":"tdr1txb"}}]]]></textPostContent>
+</http-action>

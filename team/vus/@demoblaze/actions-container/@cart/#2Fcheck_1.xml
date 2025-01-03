@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/check_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/1c01e610-7b7b-45bf-bc23-6144b83e5b56.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1c01e610-7b7b-45bf-bc23-6144b83e5b56">
+    <embedded-action>b2169967-78fa-4371-8eef-c42527a29f79</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_776976f7-8c92-431b-8fd7-15f51ef247a1.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/check" path="/check" postType="4"
+    recordedArtifactZipFileName="team/vus/@demoblaze/%resources%/recorded-artifacts/1c01e610-7b7b-45bf-bc23-6144b83e5b56.zip"
+    recordedResponseCode="200" responseSize="91"
+    serverUid="api.demoblaze.com" slaProfileEnabled="false"
+    uid="b2169967-78fa-4371-8eef-c42527a29f79" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_dd7c5489-27f6-478f-8ae4-6686162a7927</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_dd7c5489-27f6-478f-8ae4-6686162a7927.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.demoblaze.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.demoblaze.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json&#xd;
+vary: Accept-Encoding&#xd;
+vary: Origin&#xd;
+access-control-allow-origin: https://www.demoblaze.com&#xd;
+access-control-allow-credentials: true&#xd;
+content-encoding: gzip&#xd;
+x-cloud-trace-context: 50abf8322af5266401aa95cf5a2c0d03&#xd;
+date: Fri, 03 Jan 2025 11:26:20 GMT&#xd;
+server: Google Frontend&#xd;
+content-length: 115</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"token":"U3ViYnUtMTcyNjE3MzY1MDM="}]]></textPostContent>
+</http-action>

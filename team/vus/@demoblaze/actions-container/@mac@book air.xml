@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="MacBook air" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="70ab013d-6ba9-4118-96b5-909c01093dc1" weightsEnabled="false">
+    <weighted-embedded-action uid="1ab00aca-47ea-4382-9b1b-84393f6ce864"/>
+    <weighted-embedded-action uid="91163925-2a57-4484-8a3e-86088c332980"/>
+    <weighted-embedded-action uid="c9b3c050-64d6-4e3f-abbc-7d37bed14dc5"/>
+    <weighted-embedded-action uid="022e8b18-685c-44cb-b64b-3f2f84d8eaef"/>
+    <weighted-embedded-action uid="a18352df-15b4-4ee1-9f82-1aa6248502a7"/>
+</basic-logical-action-container>

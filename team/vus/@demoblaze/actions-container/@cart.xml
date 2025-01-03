@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Cart" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="2a391afc-478c-49cd-a2aa-bff398bd80d7" weightsEnabled="false">
+    <weighted-embedded-action uid="ba10722d-a0c0-4f1c-a12f-a3bbba614cae"/>
+    <weighted-embedded-action uid="217bf314-36e8-4172-8e08-8ef7208d7fd1"/>
+    <weighted-embedded-action uid="611f2268-c700-48bd-bc4c-687dd10aea89"/>
+    <weighted-embedded-action uid="39153bc7-eb42-463d-bebe-f13cbc158503"/>
+    <weighted-embedded-action uid="1c01e610-7b7b-45bf-bc23-6144b83e5b56"/>
+    <weighted-embedded-action uid="76b1a582-6e19-4d32-857f-9cd292f0187e"/>
+    <weighted-embedded-action uid="1409cd01-9a0e-46fb-b298-e9f6d0969ad5"/>
+</basic-logical-action-container>

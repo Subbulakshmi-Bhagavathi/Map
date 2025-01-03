@@ -1,0 +1,31 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="Google Map">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="4c540745-6a90-4048-ba2e-6b715b4f4d19"/>
+        <weighted-embedded-action uid="455925f9-5d8c-4947-bf5a-53e0488793e9"/>
+        <weighted-embedded-action uid="4e03195f-9826-4d9b-b80a-81715b8cdfcf"/>
+        <weighted-embedded-action uid="2350fd92-efbe-440b-9ec4-f1b2fde956b7"/>
+        <weighted-embedded-action uid="c2cd2e6e-8933-4008-9ab4-a71da40370ae"/>
+        <weighted-embedded-action uid="9ae1ab88-e0f7-4380-8baf-062356dd145f"/>
+        <weighted-embedded-action uid="a5662a60-3fc3-4141-b891-d31f42daff51"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="1"
+        thinktimeRangeValue="0" thinktimeValue="0"/>
+</virtual-user>

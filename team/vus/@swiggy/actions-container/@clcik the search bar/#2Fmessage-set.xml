@@ -1,0 +1,41 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/message-set"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/0c24e45a-9a2c-473c-9456-cdfbe1d3c7d7.zip"
+    slaProfileEnabled="false" thinkTime="15924"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0c24e45a-9a2c-473c-9456-cdfbe1d3c7d7">
+    <embedded-action>0061e4f8-ffff-4298-8e2f-b43c0f306d74</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d049d60b-3e6b-4f85-840f-33ec3de6a630.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/message-set" path="/message-set"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/0c24e45a-9a2c-473c-9456-cdfbe1d3c7d7.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="analytics.swiggy.com" slaProfileEnabled="false"
+    uid="0061e4f8-ffff-4298-8e2f-b43c0f306d74" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_dd5d6dba-9143-4745-8635-ec00081a1263.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="access-control-request-headers" value="content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:00:01 GMT&#xd;
+Content-Length: 0&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Clcik the search bar" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="e67ee862-e88e-419e-9d50-866f74ff0cff" weightsEnabled="false">
+    <weighted-embedded-action uid="0c24e45a-9a2c-473c-9456-cdfbe1d3c7d7"/>
+    <weighted-embedded-action uid="1f7280af-1014-4eae-9103-46a312fe75c0"/>
+    <weighted-embedded-action uid="f631add9-d0a5-43b3-9bef-54ba060a0e37"/>
+    <weighted-embedded-action uid="39dd10bb-3d24-4065-8b50-114b9b4b4726"/>
+    <weighted-embedded-action uid="47448878-2e65-4e2a-91df-cad2441fae62"/>
+    <weighted-embedded-action uid="08dfa59d-be00-42ca-af81-061a4f96cf55"/>
+    <weighted-embedded-action uid="1fcaba5b-6bd3-4419-b8eb-70aabe4a287a"/>
+</basic-logical-action-container>

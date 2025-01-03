@@ -1,0 +1,67 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/dapi/landing/PRE_SEARCH" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/47448878-2e65-4e2a-91df-cad2441fae62.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="47448878-2e65-4e2a-91df-cad2441fae62">
+    <embedded-action>74e4c624-edb5-445f-9c4c-35debdd407fc</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_18326e35-7589-48bc-add5-2bdcd92dd820.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    eTag="W/&quot;2361-56SMDqW56uRC2LEUv0EGjoG9p3Q&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dapi/landing/PRE_SEARCH"
+    path="/dapi/landing/PRE_SEARCH" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/47448878-2e65-4e2a-91df-cad2441fae62.zip"
+    recordedResponseCode="200" responseSize="9057"
+    serverUid="www.swiggy.com" slaProfileEnabled="false"
+    uid="74e4c624-edb5-445f-9c4c-35debdd407fc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7c30e5a9-de89-4ab7-b82b-c439eb025532</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7c30e5a9-de89-4ab7-b82b-c439eb025532.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="lat"
+        recordRawValue="12.96340" separator="=" value="12.96340" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lng"
+        recordRawValue="77.58550" separator="=" value="77.58550" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/search"/>
+    <header name="if-none-match" value="W/&quot;2361-UPw2mia+34RMSY4dT969/sEa1Jo&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="__SW=hQQGOjDOY9Lbg_3ggh3qZn5oPYHkwj0Z; _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; _gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; userLocation={%22lat%22:%2212.96340%22%2C%22lng%22:%2277.58550%22%2C%22address%22:%22%22%2C%22area%22:%22%22%2C%22showUserDefaultAddressHint%22:false}; fontsLoaded=1; _guest_tid=75fc2211-c098-4aa2-91a5-8054553f174f; _sid=i5qe038a-e38f-4ba6-a465-62eb38857dd6; _ot=REGULAR; _gat_0=1; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894802.0.0.0; _ga=GA1.2.201872141.1735890172"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="__fetch_req__" value="true"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Fri, 03 Jan 2025 09:00:02 GMT&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+x-frame-options: Sameorigin&#xd;
+set-cookie: _is_logged_in=; Domain=www.swiggy.com; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT; Secure&#xd;
+set-cookie: _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; Max-Age=31536000; Domain=www.swiggy.com; Path=/; Expires=Sat, 03 Jan 2026 09:00:02 GMT; HttpOnly; Secure&#xd;
+etag: W/"2361-P7es+ytLElWYNqwhrMEJ3ArJJjU"&#xd;
+x-kong-upstream-latency: 32&#xd;
+x-kong-proxy-latency: 0&#xd;
+x-data-origin: dweb_backend/app-kong-nlb-2&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 49cebf2f9a095736b10af2d637906ba0.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P1&#xd;
+x-amz-cf-id: A2G90v9G_lXERRS65V4yH0iH-0akANOoVROvti0dMr_e7jzvxzbgpA==&#xd;
+x-xss-protection: 1; mode=block&#xd;
+referrer-policy: strict-origin-when-cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

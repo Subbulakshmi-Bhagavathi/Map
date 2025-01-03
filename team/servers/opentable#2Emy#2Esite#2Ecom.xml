@@ -1,0 +1,4 @@
+<http-server hostname="opentable.my.site.com" port="443" ssl="true"
+    uid="opentable.my.site.com" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

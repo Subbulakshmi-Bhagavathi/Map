@@ -1,0 +1,124 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/dapi/restaurants/search/v3" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/cfb59ad7-94e2-4798-86da-d190d6e77da5.zip"
+    slaProfileEnabled="false" thinkTime="2672"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="cfb59ad7-94e2-4798-86da-d190d6e77da5">
+    <embedded-action>addc9d72-52aa-45da-bd7b-3d8f2335f69d</embedded-action>
+    <embedded-action>5d864eb8-1097-433f-a795-89e4af7f1af1</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_998d68fc-efe6-49f0-ac0d-6b3d2f4c9df6.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    eTag="W/&quot;660e7-DJackCSTi4rQx8apPHOeYeDQ4lI&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/dapi/restaurants/search/v3"
+    path="/dapi/restaurants/search/v3" postType="4"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/cfb59ad7-94e2-4798-86da-d190d6e77da5.zip"
+    recordedResponseCode="200" responseSize="418084"
+    serverUid="www.swiggy.com" slaProfileEnabled="false"
+    uid="addc9d72-52aa-45da-bd7b-3d8f2335f69d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3e0ae7db-e939-49ec-af56-75a1a18afb01</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3e0ae7db-e939-49ec-af56-75a1a18afb01.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0"
+        endsWithSimple="\&quot;" extractFromVarNameAdv=""
+        extractFromVarNameSimple="" extractType="5" extractTypeAdv="0"
+        extractTypeSimple="5" matchNumber="1" matchNumberAdv="1"
+        matchNumberSimple="1" name="id"
+        refererUid="addc9d72-52aa-45da-bd7b-3d8f2335f69d"
+        regExp="queryUniqueId\\&quot;:\\&quot;(.*?)\\&quot;"
+        regExpAdv="" setDefaultValue="true"
+        startsWithSimple="queryUniqueId\&quot;:\&quot;" template="$1$"
+        templateAdv="$1$" uid="a7149a58-6852-4ecf-be50-0890ffa71ce3" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <parameter encodeName="true" encodeValue="true" name="lat"
+        recordRawValue="12.96340" separator="=" value="12.96340" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="lng"
+        recordRawValue="77.58550" separator="=" value="77.58550" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="str"
+        recordRawValue="Biryani" separator="=" value="Biryani" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="trackingId"
+        recordRawValue="undefined" separator="=" value="undefined" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="submitAction"
+        recordRawValue="SUGGESTION" separator="=" value="SUGGESTION" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="queryUniqueId"
+        recordRawValue="d2843223-5096-f511-6ea0-17f7c2f73a0c"
+        separator="=" value="${id}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="metaData"
+        recordRawValue="%7B%22type%22%3A%22DISH%22%2C%22data%22%3A%7B%22vegIdentifier%22%3A%22NA%22%2C%22cloudinaryId%22%3A%22Autosuggest%2FTop%2520200%2520queries%2FBiryani.png%22%2C%22dishFamilyId%22%3A%22846613%22%2C%22dishFamilyIds%22%3A%5B%22846613%22%5D%7D%2C%22businessCategory%22%3A%22SWIGGY_FOOD%22%2C%22displayLabel%22%3A%22Dish%22%7D"
+        separator="="
+        value="{&quot;type&quot;:&quot;DISH&quot;,&quot;data&quot;:{&quot;vegIdentifier&quot;:&quot;NA&quot;,&quot;cloudinaryId&quot;:&quot;Autosuggest/Top%20200%20queries/Biryani.png&quot;,&quot;dishFamilyId&quot;:&quot;846613&quot;,&quot;dishFamilyIds&quot;:[&quot;846613&quot;]},&quot;businessCategory&quot;:&quot;SWIGGY_FOOD&quot;,&quot;displayLabel&quot;:&quot;Dish&quot;}" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/search?query=Biryani"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="__SW=hQQGOjDOY9Lbg_3ggh3qZn5oPYHkwj0Z; _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; _gcl_au=1.1.93467686.1735890171; _gid=GA1.2.3083583.1735890172; userLocation={%22lat%22:%2212.96340%22%2C%22lng%22:%2277.58550%22%2C%22address%22:%22%22%2C%22area%22:%22%22%2C%22showUserDefaultAddressHint%22:false}; fontsLoaded=1; _guest_tid=75fc2211-c098-4aa2-91a5-8054553f174f; _sid=i5qe038a-e38f-4ba6-a465-62eb38857dd6; _ot=REGULAR; _ga=GA1.2.201872141.1735890172; _ga_34JYJ0BCRN=GS1.1.1735894030.2.1.1735894823.0.0.0; _gat_0=1"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="__fetch_req__" value="true"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;131&quot;, &quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Fri, 03 Jan 2025 09:00:26 GMT&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+x-frame-options: Sameorigin&#xd;
+set-cookie: _is_logged_in=; Domain=www.swiggy.com; Path=/; Expires=Thu, 01 Jan 1970 00:00:00 GMT; Secure&#xd;
+set-cookie: _device_id=138443d3-1cbf-2b0c-1c54-431d10971645; Max-Age=31536000; Domain=www.swiggy.com; Path=/; Expires=Sat, 03 Jan 2026 09:00:26 GMT; HttpOnly; Secure&#xd;
+etag: W/"66124-t9lbNEvsfJXxU1Rh3ysDPvV6elQ"&#xd;
+x-kong-upstream-latency: 2174&#xd;
+x-kong-proxy-latency: 0&#xd;
+x-data-origin: dweb_backend/app-kong-nlb-1&#xd;
+x-cache: Miss from cloudfront&#xd;
+via: 1.1 49cebf2f9a095736b10af2d637906ba0.cloudfront.net (CloudFront)&#xd;
+x-amz-cf-pop: MAA51-P1&#xd;
+x-amz-cf-id: ysQjRYH3_st2Qg2kulJQajNUqdNN3yRjgnRG-pC_Ao4iRmbFIMGxfw==&#xd;
+x-xss-protection: 1; mode=block&#xd;
+referrer-policy: strict-origin-when-cross-origin&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=31536000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/message-set" path="/message-set"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@swiggy/%resources%/recorded-artifacts/cfb59ad7-94e2-4798-86da-d190d6e77da5.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="analytics.swiggy.com" slaProfileEnabled="false"
+    uid="5d864eb8-1097-433f-a795-89e4af7f1af1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b17ccce1-eb0d-49db-a6a0-ee4f183e6ba2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.swiggy.com/"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="origin" value="https://www.swiggy.com"/>
+    <header name="access-control-request-headers" value="content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Fri, 03 Jan 2025 09:00:24 GMT&#xd;
+Content-Length: 0&#xd;
+access-control-allow-headers: *&#xd;
+access-control-allow-methods: POST,OPTIONS&#xd;
+access-control-allow-origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

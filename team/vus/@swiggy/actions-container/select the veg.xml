@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="select the veg" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="97d7170d-4c63-419c-b3eb-b49c2c4940ca" weightsEnabled="false">
+    <weighted-embedded-action uid="039cf864-1896-4958-827b-45d57d6d6df1"/>
+    <weighted-embedded-action uid="2e1bc4b8-6b0b-4c24-93a0-14c45676f5ee"/>
+    <weighted-embedded-action uid="68378256-4909-486a-970c-a8cd64a5f5f5"/>
+    <weighted-embedded-action uid="b4e8ee8d-f5df-4d9a-882b-275cb877cee3"/>
+</basic-logical-action-container>
