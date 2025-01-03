@@ -1,0 +1,124 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/s_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/4ba4f0e6-87ed-4324-a1c4-f3a6ff5eba54.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4ba4f0e6-87ed-4324-a1c4-f3a6ff5eba54">
+    <embedded-action>a34d0647-cbb9-4516-a618-8489d299bd7a</embedded-action>
+    <embedded-action>de190a26-702b-4f93-9a63-f98754b9add7</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_dbe2d0e9-4bb5-44a5-a811-ae0022947f72.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s" path="/s" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/4ba4f0e6-87ed-4324-a1c4-f3a6ff5eba54.zip"
+    recordedResponseCode="200" responseSize="3749"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="a34d0647-cbb9-4516-a618-8489d299bd7a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_81c78b99-b543-4988-9a78-c800162d7c63</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_81c78b99-b543-4988-9a78-c800162d7c63.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="tbm"
+        recordRawValue="map" separator="=" value="map" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gs_ri"
+        recordRawValue="maps" separator="=" value="maps" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="suggest"
+        recordRawValue="p" separator="=" value="p" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="authuser"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gl"
+        recordRawValue="in" separator="=" value="in" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="psi"
+        recordRawValue="A453Z7aWBMOP4-EPp-2zgAI.1735888423605.1"
+        separator="=" value="A453Z7aWBMOP4-EPp-2zgAI.1735888423605.1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="q"
+        recordRawValue="KA" separator="=" value="KA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ech"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="pb"
+        recordRawValue="!2i2!3m5!1m1!1sKA!1m1!1sChennai%2C+Tamil+Nadu!2i0!4m12!1m3!1d19102069.89149739!2d82.75252935!3d21.0680074!2m3!1f0!2f0!3f0!3m2!1i1912!2i962!4f13.1!7i20!10b1!12m24!1m3!18b1!30b1!34e1!2m3!5m1!6e2!20e3!10b1!12b1!13b1!16b1!17m1!3e1!20m5!1e6!5e2!6b1!8b1!14b1!46m1!1b0!94b1!96b1!19m4!2m3!1i360!2i120!4i8!20m48!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!22m4!1sA453Z7aWBMOP4-EPp-2zgAI!3b1!7e81!17sA453Z7aWBMOP4-EPp-2zgAI%3A100!24m105!1m32!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m21!3b1!4b1!5b1!6b1!9b1!12b1!13b1!14b1!17b1!20b1!21b1!22b1!25b1!27m1!1b0!28b0!32b0!33m1!1b1!34b0!36e1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m19!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!125b0!126b1!127b1!26m4!2m3!1i80!2i92!4i8!34m18!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!49m9!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!61b1!67m2!7b1!10b1!69i715"
+        separator="="
+        value="!2i2!3m5!1m1!1sKA!1m1!1sChennai%2C+Tamil+Nadu!2i0!4m12!1m3!1d19102069.89149739!2d82.75252935!3d21.0680074!2m3!1f0!2f0!3f0!3m2!1i1912!2i962!4f13.1!7i20!10b1!12m24!1m3!18b1!30b1!34e1!2m3!5m1!6e2!20e3!10b1!12b1!13b1!16b1!17m1!3e1!20m5!1e6!5e2!6b1!8b1!14b1!46m1!1b0!94b1!96b1!19m4!2m3!1i360!2i120!4i8!20m48!2m2!1i203!2i100!3m2!2i4!5b1!6m6!1m2!1i86!2i86!1m2!1i408!2i240!7m33!1m3!1e1!2b0!3e3!1m3!1e2!2b1!3e2!1m3!1e2!2b0!3e3!1m3!1e8!2b0!3e3!1m3!1e10!2b0!3e3!1m3!1e10!2b1!3e2!1m3!1e10!2b0!3e4!1m3!1e9!2b1!3e2!2b1!9b0!22m4!1sA453Z7aWBMOP4-EPp-2zgAI!3b1!7e81!17sA453Z7aWBMOP4-EPp-2zgAI%3A100!24m105!1m32!13m9!2b1!3b1!4b1!6i1!8b1!9b1!14b1!20b1!25b1!18m21!3b1!4b1!5b1!6b1!9b1!12b1!13b1!14b1!17b1!20b1!21b1!22b1!25b1!27m1!1b0!28b0!32b0!33m1!1b1!34b0!36e1!10m1!8e3!11m1!3e1!14m1!3b1!17b1!20m2!1e3!1e6!24b1!25b1!26b1!29b1!30m1!2b1!36b1!39m3!2m2!2i1!3i1!43b1!52b1!54m1!1b1!55b1!56m1!1b1!65m5!3m4!1m3!1m2!1i224!2i298!71b1!72m19!1m5!1b1!2b1!3b1!5b1!7b1!4b1!8m10!1m6!4m1!1e1!4m1!1e3!4m1!1e4!3sother_user_reviews!6m1!1e1!9b1!89b1!98m3!1b1!2b1!3b1!103b1!113b1!114m3!1b1!2m1!1b1!117b1!122m1!1b1!125b0!126b1!127b1!26m4!2m3!1i80!2i92!4i8!34m18!2b1!3b1!4b1!6b1!8m6!1b1!3b1!4b1!5b1!6b1!7b1!9b1!12b1!14b1!20b1!23b1!25b1!26b1!49m9!3b1!6m2!1b1!2b1!7m2!1e3!2b1!8b1!9b1!61b1!67m2!7b1!10b1!69i715" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="x-maps-diversion-context-bin" value="CAE="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=UTF-8&#xd;
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-0HyxKjrdUr_9g4r6rk8OpQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/maps-tactile&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/maps-tactile"}]}&#xd;
+content-disposition: attachment; filename="f.txt"&#xd;
+content-encoding: br&#xd;
+date: Fri, 03 Jan 2025 07:13:44 GMT&#xd;
+server: gws&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/maps/preview/log204" path="/maps/preview/log204"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/4ba4f0e6-87ed-4324-a1c4-f3a6ff5eba54.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="de190a26-702b-4f93-9a63-f98754b9add7" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_9ad445c5-6428-4b4b-ad1c-690ec202e247.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="authuser"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="hl"
+        recordRawValue="en" separator="=" value="en" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="gl"
+        recordRawValue="in" separator="=" value="in" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="pb"
+        recordRawValue="!8m7!3sjsaction.directions_resize!6i2628!6i5205!6i5318!6i5318!6i7160!6i7160!8m2!3sjsaction.directions_focus!6i5187!8m5!3sjsaction.directions_suggest!6i5199!6i5304!6i6936!6i7037!8m3!3sjsaction.directions_edit!6i6934!6i7030!8m12!6i0!27m5!1i32660!3i2!232m2!1m1!5s0ahUKEwiR5cqjgNmKAxXhtKwCHfNcKmgQ6LgBCAQoAA!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i46458!17sA453Z7aWBMOP4-EPp-2zgAI%3A90!8m12!2e22!6i1!20m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!2s1i%3A0%2Ct%3A26064%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A87!3sA453Z7aWBMOP4-EPp-2zgAI%3A90!4zMWk6MCx0OjMyNjYwLGU6MixwOkE0NTNaN2FXQk1PUDQtRVBwLTJ6Z0FJOjkw!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i27626!17sA453Z7aWBMOP4-EPp-2zgAI%3A92!8m7!6i5211!27m1!1i220840!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A93!8m7!6i5211!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A94!8m7!6i5211!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A95!8m7!6i5304!27m1!1i220840!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A96!8m7!6i5304!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A97!8m7!6i5305!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A98!8m2!3sjsaction.directions_hideWaypointMarker!7i7!8m2!3sjsaction.directions_showWaypointMarker!7i8!9j1735888416670!10i7164!11m3!1sA453Z7aWBMOP4-EPp-2zgAI!7e81!15i6409"
+        separator="="
+        value="!8m7!3sjsaction.directions_resize!6i2628!6i5205!6i5318!6i5318!6i7160!6i7160!8m2!3sjsaction.directions_focus!6i5187!8m5!3sjsaction.directions_suggest!6i5199!6i5304!6i6936!6i7037!8m3!3sjsaction.directions_edit!6i6934!6i7030!8m12!6i0!27m5!1i32660!3i2!232m2!1m1!5s0ahUKEwiR5cqjgNmKAxXhtKwCHfNcKmgQ6LgBCAQoAA!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i46458!17sA453Z7aWBMOP4-EPp-2zgAI%3A90!8m12!2e22!6i1!20m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!2s1i%3A0%2Ct%3A26064%2Cp%3AA453Z7aWBMOP4-EPp-2zgAI%3A87!3sA453Z7aWBMOP4-EPp-2zgAI%3A90!4zMWk6MCx0OjMyNjYwLGU6MixwOkE0NTNaN2FXQk1PUDQtRVBwLTJ6Z0FJOjkw!29m4!1sA453Z7aWBMOP4-EPp-2zgAI%3A87!9sA453Z7aWBMOP4-EPp-2zgAI%3A87!15i27626!17sA453Z7aWBMOP4-EPp-2zgAI%3A92!8m7!6i5211!27m1!1i220840!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A93!8m7!6i5211!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A94!8m7!6i5211!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A95!8m7!6i5304!27m1!1i220840!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A96!8m7!6i5304!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A97!8m7!6i5305!27m1!1i220839!29m3!1sA453Z7aWBMOP4-EPp-2zgAI!15i9747!17sA453Z7aWBMOP4-EPp-2zgAI%3A98!8m2!3sjsaction.directions_hideWaypointMarker!7i7!8m2!3sjsaction.directions_showWaypointMarker!7i8!9j1735888416670!10i7164!11m3!1sA453Z7aWBMOP4-EPp-2zgAI!7e81!15i6409" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="x-maps-diversion-context-bin" value="CAE="/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: image/gif&#xd;
+content-security-policy-report-only: object-src 'none';base-uri 'self';script-src 'nonce-cgrn8IclJhUl9pwKYa8RHg' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/maps-tactile&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/maps-tactile"}]}&#xd;
+date: Fri, 03 Jan 2025 07:13:44 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

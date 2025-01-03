@@ -1,0 +1,82 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/gen_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/f44d05d6-a897-441e-9b15-56b3bcd1d7d8.zip"
+    slaProfileEnabled="false" thinkTime="178"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f44d05d6-a897-441e-9b15-56b3bcd1d7d8">
+    <embedded-action>fbffdaa0-4ba8-42c5-8094-97c23dd1b3a0</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5a694886-c3fd-4821-bf84-7878b0ec16e4.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gen_204" path="/gen_204" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/f44d05d6-a897-441e-9b15-56b3bcd1d7d8.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.co.in" slaProfileEnabled="false"
+    uid="fbffdaa0-4ba8-42c5-8094-97c23dd1b3a0" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_54d42a71-8148-4103-8027-a6e74e14d20a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="tactile" separator="=" value="tactile" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="action"
+        recordRawValue="directions_suggestion_selected" separator="="
+        value="directions_suggestion_selected" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="tran"
+        recordRawValue="15" separator="=" value="15" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="p"
+        recordRawValue="s" separator="=" value="s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="conn"
+        recordRawValue="onchange" separator="=" value="onchange" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="af-log"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="Ko53Z-20Ks-P4-EPruPSqAM" separator="="
+        value="Ko53Z-20Ks-P4-EPruPSqAM" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="cad"
+        recordRawValue="an:get_directions,dtm:6,dwp:2,tz:7,sc:276,dup:vcp0|vcp1|dc0|mt0|ft0|vm0|vm-00|vm-10|dc-00|dc-0s|dc-01|dc1|ft1|mt1,tl:88,cf:120,tf:69,fps:52.5,df:0,dfps:0.0,ms:0,pr:1.00,wr:Intel_HD_4600,crt:2283.9860000000044,tr:912.6000000536442,tp:507.8000002503395,fsd:NaN,st:276,e:0,c:0,rst:0,rsc:0,re:0,rc:0,r:1114,at:268,prepst:107,prepsc:107,prepe:0,prepc:0,preprst:0,preprsc:0,prepre:0,preprc:0,prepr:0,prepat:1,lablpc:71,pth:0,ptd:0,ptb:0,pte:0,pta:497,ptu:1356,ptr:0,qm:11,qvm:8,tvm:1919,pfh:80,pfg:43,pfu:83,jsv:20241211.0,cz:7,w:1912,h:962,ct:1,drv:s"
+        separator="="
+        value="an:get_directions,dtm:6,dwp:2,tz:7,sc:276,dup:vcp0|vcp1|dc0|mt0|ft0|vm0|vm-00|vm-10|dc-00|dc-0s|dc-01|dc1|ft1|mt1,tl:88,cf:120,tf:69,fps:52.5,df:0,dfps:0.0,ms:0,pr:1.00,wr:Intel_HD_4600,crt:2283.9860000000044,tr:912.6000000536442,tp:507.8000002503395,fsd:NaN,st:276,e:0,c:0,rst:0,rsc:0,re:0,rc:0,r:1114,at:268,prepst:107,prepsc:107,prepe:0,prepc:0,preprst:0,preprsc:0,prepre:0,preprc:0,prepr:0,prepat:1,lablpc:71,pth:0,ptd:0,ptb:0,pte:0,pta:497,ptu:1356,ptr:0,qm:11,qvm:8,tvm:1919,pfh:80,pfg:43,pfu:83,jsv:20241211.0,cz:7,w:1912,h:962,ct:1,drv:s" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="e"
+        recordRawValue="10200083,10207741,10207798,10208359,10208640,10209962,10210186,10210191,10210500,10210560,10211060,10211074,10211142,10211180,10211229,10211295,10211365,10211386,94223789,202752,10205968,1368782,1368785,4861626,4897086,47054629,72385654,72310157,72458815,72692817,94222679"
+        separator="="
+        value="10200083,10207741,10207798,10208359,10208640,10209962,10210186,10210191,10210500,10210560,10211060,10211074,10211142,10211180,10211229,10211295,10211365,10211386,94223789,202752,10205968,1368782,1368785,4861626,4897086,47054629,72385654,72310157,72458815,72692817,94222679" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="csi" separator="=" value="csi" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="opi"
+        recordRawValue="79508299" separator="=" value="79508299" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="rt"
+        recordRawValue="vcp0.4103,vcp1.4104,dc0.2137,dc-00.3333,dc-0s.3333,su0.19,dc-01.3801,dc1.3801,mt0.3103,ft0.3111,ff1t.2253,ffht.2253,vm0.3213,vm-00.3213,vm-10.3213,ft1.4104,mt1.4105,vm-0c.3213,vm-1c.3213,vmc.3213,vm-0-00.3333,vm-0-0s.3334,vm-1-00.3334,vm-1-0s.3334,vm-1-01.3406,vm-11.3406,vm1.3415,vm-0-01.3415,vm-01.3415,ffat.4240,su1.4254,mmid.4372"
+        separator="="
+        value="vcp0.4103,vcp1.4104,dc0.2137,dc-00.3333,dc-0s.3333,su0.19,dc-01.3801,dc1.3801,mt0.3103,ft0.3111,ff1t.2253,ffht.2253,vm0.3213,vm-00.3213,vm-10.3213,ft1.4104,mt1.4105,vm-0c.3213,vm-1c.3213,vmc.3213,vm-0-00.3333,vm-0-0s.3334,vm-1-00.3334,vm-1-0s.3334,vm-1-01.3406,vm-11.3406,vm1.3415,vm-0-01.3415,vm-01.3415,ffat.4240,su1.4254,mmid.4372" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://www.google.co.in/"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;131&quot;, &quot;Not_A Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;131&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="cookie" value="AEC=AZ6Zc-UmhLHoNFKBy4UoHNp-Ug_fkHW12Hf1bpm45qPn1ipArCzOvpq5ixg; NID=520=GV_0Nw22b-m6cz73ElpXFEp9emrRFdNoP3VQHZKLwhB2i-YTZ-p45hbofEWKzvh7kMIQP6nxSWlntAlxJEwriVn5Pl77Feh_K1Zw1VXdMFZL_HrtzUHRVEPbqPl7gSwdNTDBuOd66sWGVnyxIiElVQMlubXAd2lNHOPxpUau7npzg08WP0VUB_S109Yjzi4yQic"/>
+    <header name="accept-language" value="en-US,en;q=0.9,en-IN;q=0.8"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+content-security-policy: object-src 'none';base-uri 'self';script-src 'nonce-c0oGLNM6dW-nhu4fxewjGA' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/other&#xd;
+cross-origin-opener-policy: same-origin-allow-popups; report-to="gws"&#xd;
+report-to: {"group":"gws","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/gws/other"}]}&#xd;
+permissions-policy: unload=()&#xd;
+date: Fri, 03 Jan 2025 07:13:51 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

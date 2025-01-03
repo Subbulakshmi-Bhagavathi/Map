@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click the Direction" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="a548314a-1912-4a06-b192-65884c0d2edb" weightsEnabled="false">
+    <weighted-embedded-action uid="ed5482f2-c80e-4965-88c4-8a647bca7ac4"/>
+    <weighted-embedded-action uid="f1e1b692-a2a3-4c4c-9ef5-2a6d5c6bd7a4"/>
+    <weighted-embedded-action uid="e725a644-f860-48ef-b0ea-cf86abf783bf"/>
+    <weighted-embedded-action uid="917dabcf-6163-4eb4-9cee-acbb3c0a5d20"/>
+    <weighted-embedded-action uid="60ac5d0c-cc05-4fbe-939f-4f71e4a1e0c6"/>
+    <weighted-embedded-action uid="55b7e047-bb1b-45b3-a230-8181082ac273"/>
+    <weighted-embedded-action uid="4ba4f0e6-87ed-4324-a1c4-f3a6ff5eba54"/>
+</basic-logical-action-container>
