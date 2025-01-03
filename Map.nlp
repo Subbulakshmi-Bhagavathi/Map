@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=Map
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.3.0
+project.is-open-test-settings-after-upload=false
+project.id=fc254939-206a-4d8a-8283-7d138658dd63
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=Subbulakshmi-Bhagavathi/Map.git
