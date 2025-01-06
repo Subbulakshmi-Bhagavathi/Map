@@ -25,6 +25,7 @@
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed before the Virtual User stops.</description>
     </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="100" thinktimePolicy="1"
         thinktimeRangeValue="0" thinktimeValue="0"/>

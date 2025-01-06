@@ -4,9 +4,32 @@
     <population-policy name="Population1">
         <duration-policy-entry iterations="1" time="120" timeUnit="0" type="2"/>
         <volume-policy-entry>
-            <rampup-volume-policy delayIncrement="20.0"
-                delayTypeIncrement="1" initialUserNumber="2"
-                iterationNumber="1" maxUserNumber="0" userIncrement="2"/>
+            <custom-volume-policy iteration="10" maxUsers="15" totalLength="120">
+                <custom-load-node iteration="0" position="0" time="4" users="15"/>
+                <custom-load-node iteration="0" position="1" time="5" users="1"/>
+                <custom-load-node iteration="0" position="2" time="12" users="3"/>
+                <custom-load-node iteration="0" position="3" time="19" users="14"/>
+                <custom-load-node iteration="0" position="4" time="23" users="8"/>
+                <custom-load-node iteration="0" position="5" time="29" users="2"/>
+                <custom-load-node iteration="0" position="6" time="33" users="15"/>
+                <custom-load-node iteration="0" position="7" time="35" users="1"/>
+                <custom-load-node iteration="0" position="8" time="38" users="9"/>
+                <custom-load-node iteration="0" position="9" time="43" users="15"/>
+                <custom-load-node iteration="0" position="10" time="46" users="1"/>
+                <custom-load-node iteration="0" position="11" time="47" users="11"/>
+                <custom-load-node iteration="0" position="12" time="51" users="1"/>
+                <custom-load-node iteration="0" position="13" time="51" users="15"/>
+                <custom-load-node iteration="0" position="14" time="57" users="10"/>
+                <custom-load-node iteration="0" position="15" time="61" users="2"/>
+                <custom-load-node iteration="0" position="16" time="62" users="14"/>
+                <custom-load-node iteration="0" position="17" time="71" users="2"/>
+                <custom-load-node iteration="0" position="18" time="71" users="10"/>
+                <custom-load-node iteration="0" position="19" time="84" users="15"/>
+                <custom-load-node iteration="0" position="20" time="89" users="3"/>
+                <custom-load-node iteration="0" position="21" time="108" users="15"/>
+                <custom-load-node iteration="0" position="22" time="112" users="5"/>
+                <custom-load-node iteration="0" position="23" time="115" users="12"/>
+            </custom-volume-policy>
         </volume-policy-entry>
         <start-stop-policy-entry start-delay="0" start-type="0"
             stop-delay="60000" stop-type="0"/>
@@ -55,6 +78,7 @@
                 monitorName="lgcpu.localhost:7100"
                 monitoredHostName="LG localhost:7100" scale="1.0" selected="false"/>
         </chart-description>
+        <empty-chart-description/>
     </charts-model-description>
     <!--****** END DASHBOARDS  ******-->
     <!--****** START DATA FILTERS  ******-->
