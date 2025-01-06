@@ -1,0 +1,15 @@
+I have learned and gained hands-on experience with NeoLoad on the following topics:
+1.Recorded the path
+2.Validated the path
+3.Fetched API requests using HTTP request
+4.Fetched API requests using JavaScript
+5.Created flag requests and fetched dynamic parameters using the variable extractor, and stored them in the framework
+6.Created all types of variables
+7.Created JavaScript libraries
+8.Applied actions (Delay, Loop, While, If...then...Else, Switch, Try...Catch, Go to next iteration, Stop, Wait Until)
+9.Applied SLA profiles
+10.Fetch and display variables using JavaScript
+11.Applied all types of load variables with duration,analyze the generated reports
+12.connect the neoload project to github manual using cmd create branches,commit,log,add a files,remove a file,checkout 
+13.Pushed the NeoLoad project to GitHub using collaboration settings in NeoLoad, published, uploaded the project, and cloned the repository
+I have covered the above-mentioned topics, except for these. Can you tell me if I missed any topics to learn more in NeoLoad?
